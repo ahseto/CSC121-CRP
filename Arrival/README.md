@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Contributors: Anthony Seto
 
-Things you may want to cover:
+Summary: Arrival is a web-based application to allow Harvey Mudd students to
+determine whether the mail room is currently open. It will also display the
+current status of various mail carriers.
 
-* Ruby version
+Users: Arrival is designed for the Harvey Mudd student body, and will be
+updated by the mail room staff.
 
-* System dependencies
+MVP: Arrival displays the current open or closed status of the mail room. It
+should display various mail carriers and their delivery status, and it should
+be easily updatable.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Functionality: Harvey Mudd students are constantly busy with classes and
+homework. The majority of the students have experienced the frustration
+of walking across campus to be greeted by a closed mail room. Arrival is
+designed so that students can easily check the status of the mail room via
+the internet. In addition, Arrival is designed such that students can also
+verify which mail carriers have arrived allowing students to predict whether
+their package has been delivered.
