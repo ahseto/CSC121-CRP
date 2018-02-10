@@ -1,4 +1,6 @@
 class HomepageController < ApplicationController
-  def index
+
+  def show
+  	@carriers = Carrier.all
   end
 end
