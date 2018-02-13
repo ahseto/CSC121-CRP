@@ -22,7 +22,7 @@ be able to easily view a structured data table representing each carrier
 and its current status.
 
 
-##Functionality
+## Functionality
 Harvey Mudd students are constantly busy with classes and
 homework. The majority of the students have experienced the frustration
 of walking across campus to be greeted by a closed mail room. Arrival is
@@ -32,15 +32,15 @@ verify which mail carriers have arrived allowing students to predict whether
 their package has been delivered.
 
 
-##Installation Steps
+## Installation Steps
 This project was built using `Rails 5.1.4`. In order to install and run the 
 application, first open terminal and navigate to the directory where the project 
 would be saved, then run `git clone https://github.com/ahseto/CSC121-CRP.git`. 
 Navigate to the project directory using `cd Arrival`, and to run the project, 
-type and enter `rails s`. Now, using a web browser, go to the link `localhost:3000`.
+type and enter `rails s`. Now, using a web browser, go to the link [localhost:3000](localhost:3000).
 
 
-##Key Issues
+## Key Issues
 I built this Ruby on Rails application without following a specific tutorial 
 posted online. Instead, after following several other tutorials, such as 
 creating a blog and a calendar, I decided to create my own application that I 
@@ -52,11 +52,11 @@ to update the migrations, but these methods currently do not work. I tried solvi
 these problems by looking at some tutorials, but none were very useful. 
 
 
-##Known Bugs
+## Known Bugs
 The [update]() button does not actually do anything.
 
 
-##References
+## References
 I primarily used the [Ruby on Rails](http://guides.rubyonrails.org/) documentation 
 to create this application. Most notably, the [Blog](http://guides.rubyonrails.org/getting_started.html) 
 application taught me the basics of Rails. In addition to the documentation,
