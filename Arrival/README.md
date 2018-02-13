@@ -2,7 +2,7 @@
 
 Contributors: Anthony Seto
 
-##Summary
+## Summary
 Arrival is a web-based application to allow Harvey Mudd students to
 determine current delivery statuses of various mail carriers that deliver to 
 Harvey Mudd. It displays simple text descriptions of each of the mail carriers
@@ -10,12 +10,12 @@ describing whether the carrier has arrived, the packages are being processed,
 or the carrier still has not arrived.
 
 
-##Users
+## Users
 Arrival is designed for the Harvey Mudd student body. It should be 
 updatable by mail room staff.
 
 
-##MVP
+## MVP
 Arrival should be able to display the statuses of each of the mail 
 carriers tha deliver to Harvey Mudd College. At the minimum, one should
 be able to easily view a structured data table representing each carrier
@@ -37,7 +37,7 @@ This project was built using `Rails 5.1.4`. In order to install and run the
 application, first open terminal and navigate to the directory where the project 
 would be saved, then run `git clone https://github.com/ahseto/CSC121-CRP.git`. 
 Navigate to the project directory using `cd Arrival`, and to run the project, 
-type and enter `rails s`. Now, using a web browser, go to the link [localhost:3000](localhost:3000).
+type and enter `rails s`. Now, using a web browser, go to the link `localhost:3000`.
 
 
 ## Key Issues
