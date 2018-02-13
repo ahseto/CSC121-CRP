@@ -59,6 +59,8 @@ The [update]() button does not actually do anything.
 ## References
 I primarily used the [Ruby on Rails](http://guides.rubyonrails.org/) documentation 
 to create this application. Most notably, the [Blog](http://guides.rubyonrails.org/getting_started.html) 
-application taught me the basics of Rails. In addition to the documentation,
+application taught me the basics of Rails. I also followed a 
+[Calendar](https://richonrails.com/articles/building-a-basic-calendar-in-ruby-on-rails)
+tutorial, and used its code for making bootstrap to work in my application. In addition, 
 StackOverflow and IRC were both very helpful resources in clearing up misunderstandings
 from the documentation. 
